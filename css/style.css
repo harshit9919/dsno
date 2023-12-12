@@ -51,6 +51,31 @@ body {
 	width: 100%;
 	overflow: hidden;
 }
+
+/*=======================================================
+      custom css
+========================================================*/
+.icon-vector {
+	color: green;
+  }
+  
+
+.icon-magnifier-add {
+	color: red; /* Change 'red' to the desired color */
+  }
+
+  .icon-clock {
+	color: blue; /* Change 'blue' to the desired color */
+  }
+
+  .icon-eyeglasses {
+	color: orange; /* Change the color to orange */
+  }
+  .icon-screen-desktop {
+	color: pink;
+  }
+	
+  
 /*=======================================================
       HEADINGS
 ========================================================*/
@@ -702,7 +727,7 @@ header.dark nav li a:after {
 	width: 100%;
 	height: 100%;
 	top: 0px;
-	background: #91a8ae;
+	background: #FDE5EC;
 }
 .portfolio-in .container {
 	position: relative;
@@ -2170,12 +2195,12 @@ a.big-border:hover {
 	position: fixed;
 	bottom: 40px;
 	right: 40px;
-	color: #ffbb42;
+	color: #0AB8B6;
 	border-radius: 50%;
 	font-size: 26px;
 	text-align: center;
 	line-height: 40px;
-	border: 3px solid #ffbb42;
+	border: 3px solid #0AB8B6;
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
 	overflow: hidden;
 	white-space: nowrap;
@@ -2204,7 +2229,7 @@ a.big-border:hover {
 	opacity: .5;
 }
 .no-touch .cd-top:hover {
-	background-color: #ffbb42;
+	background-color: #0AB8B6;
 	opacity: 1;
 	color: #fff;
 }
@@ -2258,7 +2283,7 @@ a.big-border:hover {
 	background: #252525;
 }
 .dark-version .portfolio-in:before {
-	background: #252525;
+	background: #e48383;
 }
 .dark-version section {
 	background: #202020;
@@ -2403,7 +2428,7 @@ a.big-border:hover {
 	background: none;
 }
 .dark-version .portfolio .portfolio-in .port-item {
-	background: rgba(255,255,255,0.05);
+	background: rgba(232, 173, 173, 0.05);
 }
 /*=======================================================
 			HAM MENU
