@@ -1460,7 +1460,25 @@ a.big-border:hover {
 	display: inline-block;
 	width: 100%;
 	text-transform: uppercase;
-	color: #f6772c;
+	color: #0AB8B6;
+	font-size: 16px;
+	letter-spacing: 2px;
+}
+
+.post-content .tag1 {
+	display: inline-block;
+	width: 100%;
+	text-transform: uppercase;
+	color: #f90404;
+	font-size: 16px;
+	letter-spacing: 2px;
+}
+
+.post-content .tag2 {
+	display: inline-block;
+	width: 100%;
+	text-transform: uppercase;
+	color: #21b004;
 	font-size: 16px;
 	letter-spacing: 2px;
 }
