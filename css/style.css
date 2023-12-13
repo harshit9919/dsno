@@ -71,8 +71,8 @@ body {
   .icon-eyeglasses {
 	color: orange; /* Change the color to orange */
   }
-  .icon-screen-desktop {
-	color: pink;
+  .fa-heart{
+	color: red;
   }
 	
   
@@ -228,7 +228,7 @@ a:hover, a:focus {
 	background: #f6772c;
 }
 .light-gray-bg {
-	background: #e5e9ea !important;
+	background: #fa9f1b !important;
 }
 .relative {
 	position: relative;
@@ -727,7 +727,7 @@ header.dark nav li a:after {
 	width: 100%;
 	height: 100%;
 	top: 0px;
-	background: #FDE5EC;
+	background: #0ab8b7;
 }
 .portfolio-in .container {
 	position: relative;
@@ -1822,24 +1822,24 @@ a.big-border:hover {
       FOOTER
 ========================================================*/
 .footer {
-	background: #191b1f;
+	background: #001f5e;
 	padding: 200px 0;
 }
 .footer p {
-	color: #666666;
+	color: #ffffff;
 	line-height: 36px;
 }
 .footer .heading-block hr {
-	background: #666666;
+	background: #ffffff;
 }
 .footer .heading-block h6 {
-	color: #666666;
+	color: #ffffff;
 }
 .footer .heading-block h3 {
-	color: #666666;
+	color: #ffffff;
 }
 .footer .contact-info {
-	color: #666666;
+	color: #ffffff;
 }
 .footer .contact-info i {
 	width: 50px;
@@ -1858,7 +1858,7 @@ a.big-border:hover {
 	margin-top: -70px;
 }
 .footer .rights a {
-	color: #666666;
+	color: #ffffff;
 	margin-right: 10px;
 	font-size: 18px;
 	display: inline-block;
@@ -1875,7 +1875,7 @@ a.big-border:hover {
 	display: inline-block;
 }
 .footer-links a {
-	color: #666666;
+	color: #ffffff;
 	margin-right: 10px;
 	font-size: 13px;
 	display: inline-block;
@@ -1990,7 +1990,7 @@ a.big-border:hover {
 	color: #fff;
 	padding: 0px;
 	font-size: 16px;
-	border-bottom: 1px solid #666666;
+	border-bottom: 1px solid #ffffff;
 	-webkit-transition: all 0.4s ease-in-out;
 	-moz-transition: all 0.4s ease-in-out;
 	-o-transition: all 0.4s ease-in-out;
@@ -2006,7 +2006,7 @@ a.big-border:hover {
 	padding: 0px;
 	font-size: 16px;
 	background: none;
-	border-bottom: 1px solid #666666;
+	border-bottom: 1px solid #ffffff;
 	-webkit-transition: all 0.4s ease-in-out;
 	-moz-transition: all 0.4s ease-in-out;
 	-o-transition: all 0.4s ease-in-out;
@@ -2065,10 +2065,10 @@ a.big-border:hover {
 }
 .contact-form button {
 	float: right;
-	border: 1px solid #666666;
+	border: 1px solid #ffffff;
 	background: none;
 	border-radius: 0px;
-	color: #666666;
+	color: #ffffff;
 	margin-top: 0px;
 	letter-spacing: 1px;
 	padding: 15px 50px;
@@ -2082,7 +2082,7 @@ a.big-border:hover {
 }
 .contact-form button:hover {
 	background: #fff;
-	color: #333;
+	color: #ffffff;
 	border-color: #fff;
 }
 .newsletter {
@@ -2171,7 +2171,7 @@ a.big-border:hover {
 	padding: 0px;
 	font-size: 16px;
 	background: none;
-	border-bottom: 1px solid #666666;
+	border-bottom: 1px solid #ffffff;
 	-webkit-transition: all 0.4s ease-in-out;
 	-moz-transition: all 0.4s ease-in-out;
 	-o-transition: all 0.4s ease-in-out;
